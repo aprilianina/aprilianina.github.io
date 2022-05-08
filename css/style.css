@@ -167,7 +167,8 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+}
 
 svg {
   overflow: hidden;
@@ -8482,7 +8483,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #edf0ff;
+    background: #007bff;
     z-index: -1;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -8501,7 +8502,7 @@ h1, h2, h3, h4, h5,
   -webkit-animation: 1.6s ease infinite wheel-up-down;
   -moz-animation: 1.6s ease infinite wheel-up-down;
   animation: 1.6s ease infinite wheel-up-down;
-  color: #3E64FF;
+  color: #FFFFFF;
   font-size: 30px; }
 
 @-webkit-keyframes wheel-up-down {
@@ -8635,7 +8636,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .ftco-about .img-about .img {
     display: block;
-    width: 100%;
+    width: 80%;
     position: relative;
     z-index: 1; }
 
